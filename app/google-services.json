@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "985071079124",
+    "project_id": "massenger-diploma",
+    "storage_bucket": "massenger-diploma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985071079124:android:2df7caf84fe1dfba2a7541",
+        "android_client_info": {
+          "package_name": "com.example.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985071079124-e4hlba4jd4t5e304s56ospbfmca0cj53.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.messenger",
+            "certificate_hash": "7421d7e024dee3e9ec34fb99d5e176c5029fe21d"
+          }
+        },
+        {
+          "client_id": "985071079124-k3tiu43g3j0t1fl3i7dsep65jr0c075o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUV71l5ox85FgQPpXgbaSfEVuSJjbkGaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985071079124-k3tiu43g3j0t1fl3i7dsep65jr0c075o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
